@@ -9,6 +9,8 @@
 
 target platform：py3，node/typescript，erlang/BEAM，.net core/Roslyn，mathematica //暂不考虑JVM/应该淘汰了
 
+relationship/关系：flo∈Ld2.ex，Ld2∈GDPL，GDPL∈PRT，PRT∈S6RT; s6k∈S6RT
+
 ### Q/A
 
 ```
