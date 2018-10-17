@@ -1,4 +1,4 @@
-# Flo.B
+# Flo/B
 一种可读的编程语言/DSL。别名flo//beat/bit//flobit/lowbit/lobi
 
 说明：本质上是[pic:overview#94](https://github.com/program-in-chinese/overview/issues/94) 的简化版（怕很多人数学不行，适应不了大量APL风格的符号
