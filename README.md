@@ -13,6 +13,8 @@ target platform：py3，node/typescript，erlang/BEAM，.net core/Roslyn，mathe
 
 relationship/关系：flo∈Ld2.ex，Ld2∈GDPL，GDPL∈PRT，PRT∈S6RT; s6k∈S6RT
 
+PS：由于up主习惯性在线修改代码，所以，这里保留做slow ring。fast ring 可关注-> https://github.com/pyzh/flo
+
 ### Q/A
 
 ```
