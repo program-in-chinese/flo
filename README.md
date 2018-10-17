@@ -15,6 +15,8 @@ relationship/关系：flo∈Ld2.ex，Ld2∈GDPL，GDPL∈PRT，PRT∈S6RT; s6k�
 
 PS：由于up主习惯性在线修改代码，所以，这里保留做slow ring。fast ring 可关注-> https://github.com/pyzh/flo
 
+另：我知道readme有错别字。不用改了，我相信大部分人语文是及格的，有基本的容错阅读能力。
+
 ### Q/A
 
 ```
